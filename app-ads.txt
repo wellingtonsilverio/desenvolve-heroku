@@ -4,6 +4,7 @@ appodeal.com, 92475, DIRECT
 bidmachine.io, 92475, DIRECT
 #AdMob
 #Copy Admob's app-ads.txt entry from your Admob dashboard
+google.com, pub-9183244270725354, DIRECT, f08c47fec0942fa0
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
 facebook.com, Business ID, RESELLER, c3e20eee3f780d68
